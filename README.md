@@ -11,7 +11,7 @@
 
 <p align="center">I have 1 year of experience in software development, specializing in Python programming. My journey in coding started with a fascination for technology and a desire to create software that makes a difference.</p>
 
-<p align="center">I'm currently pursuing Software engineering boo tamp, where I'm diving deeper into Python programming. I'm excited about the possibilities that offers and am always eager to expand my skill set.</p>
+<p align="center">I'm currently pursuing a Software engineering boot camp, where I'm diving deeper into Python programming. I'm excited about the possibilities that offers and am always eager to expand my skill set.</p>
 
 <p align="center">When I'm not coding, you can find me exploring new hiking trails, experimenting with new recipes in the kitchen, or diving into a good book. I'm also a big fan of coffee and enjoy discovering new coffee shops around town.</p>
 
