@@ -16,7 +16,7 @@
 <p align="center">When I'm not coding, you can find me exploring new hiking trails, experimenting with new recipes in the kitchen, or diving into a good book. I'm also a big fan of coffee and enjoy discovering new coffee shops around town.</p>
 
 <p align="center">Feel free to reach out if you have any questions or if you'd like to chat about Python, software development, or anything else tech-related. Let's connect and build something awesome together!</p>
--->
+
 
 Thank You for Visiting!</h2>
 
