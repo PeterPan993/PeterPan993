@@ -18,7 +18,7 @@
 <p align="center">Feel free to reach out if you have any questions or if you'd like to chat about Python, software development, or anything else tech-related. Let's connect and build something awesome together!</p>
 -->
 
-h2 align="center">Thank You for Visiting!</h2>
+Thank You for Visiting!</h2>
 
 <p align="center">Thank you for taking the time to explore my GitHub page. Feel free to reach out if you have any questions or if you're interested in collaborating on a Python project. Have a great day! 😊</p>
 
